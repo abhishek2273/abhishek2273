@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek2273" alt="abhishek2273" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/senisabhi" target="blank"><img src="https://img.shields.io/twitter/follow/senisabhi?logo=twitter&style=for-the-badge" alt="senisabhi" /></a> </p>
-
 - 🔭 I’m currently working on **Web based payment app**
 
 - 🌱 I’m currently learning **Advance DSA**
@@ -15,7 +13,7 @@
 
 - 📫 How to reach me **isabhisheksen@gmail.com**
 
-- ⚡ Fun fact 🙂
+- ⚡ Fun fact **🙂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
