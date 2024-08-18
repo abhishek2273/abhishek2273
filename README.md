@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Abhishek Sen</h1>
-<h3 align="center">I am a Tech enthusiast and Full Stack Web Developer from India</h3>
+<h3 align="center">I am a Tech enthusiast and Web Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek2273&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek2273" /> </p>
 
